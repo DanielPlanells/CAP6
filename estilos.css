@@ -10,4 +10,12 @@ div {
         url(assets/raspberry_shortcake_min.jpg);
     background-repeat: no-repeat;
     background-position: -35px -10px;
+    
+}
+
+a{
+    
+    text-decoration: none;
+    color: darkslategray
+    font-weight: 700;
 }
