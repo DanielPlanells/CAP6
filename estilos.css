@@ -1,0 +1,13 @@
+
+div {
+    
+}
+
+#imagen_fondo {
+    width: 100px;
+    height: 100px;
+    background-image:
+        url(assets/raspberry_shortcake_min.jpg);
+    background-repeat: no-repeat;
+    background-position: -35px -10px;
+}
